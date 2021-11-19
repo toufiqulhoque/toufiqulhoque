@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Toufiq</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<a align="center" href="#"><img width="50%" height="auto" src="https://www.mygo.ge/uploads/blog/1584024060.jpg" height="175px"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufiqulhoque&label=Profile%20views&color=0e75b6&style=flat" alt="toufiqulhoque" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toufiqulhoque" alt="toufiqulhoque" /></a> </p>
+
+- 🔭 I’m currently working on [Test Mern stack Web app](https://lamborghini-wheels.firebaseapp.com/)
+
+- 🌱 I’m currently learning **React, Node JS, MongoDB**
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **xtoufiqxx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
