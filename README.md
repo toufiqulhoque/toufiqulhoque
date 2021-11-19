@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Toufiq</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<a align="center" href="#"><img width="50%" height="auto" src="https://www.mygo.ge/uploads/blog/1584024060.jpg" height="175px"/></a>
+<span><a href="#"><img align="left" width="100%" height="auto" src="https://www.mygo.ge/uploads/blog/1584024060.jpg" height="175px"/></a></span>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufiqulhoque&label=Profile%20views&color=0e75b6&style=flat" alt="toufiqulhoque" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toufiqulhoque" alt="toufiqulhoque" /></a> </p>
 
 - 🔭 I’m currently working on [Test Mern stack Web app](https://lamborghini-wheels.firebaseapp.com/)
@@ -15,11 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/toufiq hoque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="toufiq hoque" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/toufiq hoque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toufiq hoque" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/toufiq hoque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="toufiq hoque" height="30" width="40" /></a>
-<a href="https://fb.com/toufiq hoque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="toufiq hoque" height="30" width="40" /></a>
-<a href="https://instagram.com/toufiq_hoque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toufiq_hoque" height="30" width="40" /></a>
+<a href="https://codepen.io/toufiq-hoque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="toufiq-hoque" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/toufiq-hoque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toufiq-hoque/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11359130/toufiq-hoque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="toufiq hoque" height="30" width="40" /></a>
+<a href="https://fb.com/toufiq.hoque.18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="toufiq.hoque.18/" height="30" width="40" /></a>
+<a href="https://instagram.com/toufiq_hoque/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="toufiq_hoque/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=toufiqulhoque&show_icons=true&locale=en&layout=compact" alt="toufiqulhoque" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=toufiqulhoque&show_icons=true&locale=en" alt="toufiqulhoque" /></p>
+
